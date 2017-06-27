@@ -1,9 +1,13 @@
 
 # Danilo Batista da Silva
 >Full Stack Developer, São Paulo, Brazil
+
 >danilobsi@yahoo.com.br
+
 >+55 11 97307-8254  
+
 >[linkedin.com/in/danilobsi](https://www.linkedin.com/in/danilobsi)
+
 >[github.com/danilobsi](https://github.com/danilobsi)
 
 
@@ -63,7 +67,7 @@ BANCO YAMAHA, Team Leader / Senior Web Developer
 *The system was developed using the concept of Single Page (with angularjs), consuming the data via a Web API. MongoDB was used for logging data for future BI queries.*
 **Technologies:** AngularJS, jQuery, MVC Web Api (C# 4.6), MongoDB, SQL Server 2012, Bootstrap
 
-JET E-commerce (NetFarma), Senior Web Developer
+JET E-COMMERCE (NETFARMA), Senior Web Developer
 
 *Development of Scheduled Purchasing module for the Jet E-commerce platform for the NetFarma client. The platform is in ASP 3.0, with SQL Server database.*
 **Technologies:** Classic Asp, jQuery, SQL Server 2012
@@ -78,11 +82,11 @@ LOYALTY & TRADE MANAGEMENT, Scrum Master
 
 *Responsable for project development of B2B teams. Development of Loyalty platforms integrated into the Web Premios system (LTM product). Projects: Atlantica Exagerado, Ajinomoto, Danone (Na Pegada do Puma, Dominio Danone), Mondelez.*
 
-Walmart Brasil, Scrum Master
+WALMART BRAZIL, Scrum Master
 
 *Responsible for the Walmart Ongoing development team in B2B stores, Loyalty Portal for corporate clients and B2B2C.*
 
-Walmart Brasil, Senior Web Developer
+WALMART BRAZIL, Senior Web Developer
 
 *Support and development of new modules for B2B stores, Loyalty and Incentive Portal for corporate clients and B2B2C.*
 **Technologies:** ASP.Net (C# 3.5, C#4.0), MVC (1 and 2), LINQ, SQL Server
