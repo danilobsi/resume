@@ -1,14 +1,10 @@
 
 # Danilo Batista da Silva
 >Full Stack Developer, São Paulo, Brazil
-
->danilobsi@yahoo.com.br
-
->+55 11 97307-8254  
-
->[linkedin.com/in/danilobsi](https://www.linkedin.com/in/danilobsi)
-
->[github.com/danilobsi](https://github.com/danilobsi)
+danilobsi@yahoo.com.br
++55 11 97307-8254  
+[linkedin.com/in/danilobsi](https://www.linkedin.com/in/danilobsi)
+[github.com/danilobsi](https://github.com/danilobsi)
 
 
 ### QUALIFICATIONS
@@ -54,7 +50,7 @@
 ### PROFESSIONAL EXPERIENCE
 
 ---
-**LTM - Loyalty & Trade Management**, Senior Web Developer - *12/2016 – Current*
+**LTM - LOYALTY & TRADE MANAGEMENT**, Senior Web Developer - *12/2016 – Current*
 
 *I'm part of a team of 10 developers, responsable for the core product of the enterprise, called MarketPlace. Basically, this is the loyalty/awards engine of the company. We are responsable for the new features of the product.*
 **Technologies:** AngularJS, MVC Web Api (C# 4.6), MongoDB, Redis, SQL Server 2012
@@ -91,6 +87,31 @@ WALMART BRAZIL, Senior Web Developer
 *Support and development of new modules for B2B stores, Loyalty and Incentive Portal for corporate clients and B2B2C.*
 **Technologies:** ASP.Net (C# 3.5, C#4.0), MVC (1 and 2), LINQ, SQL Server
 2005 and 2008
+
+---
+**LIVRARIA APICIUS**, Senior Web Developer – *01/2011 – 05/2011*
+
+*Analysis, maintenance and support of a Gastronomic Bookstore E-commerce.*
+**Technologies:** Classic Asp (VBScript), SQL Server 2003
+
+---
+**WALMART BRASIL**, Senior Web Developer – 11/2010 – 12/2010
+
+*Web Support of a legacy website of one of the Supermarket brands from Curitiba.*
+**Technologies:** ASP.Net (VB 1.1), SQL Server 2003, Microsoft Commerce
+Server 2002.
+
+---
+**MÍDIA EM FOCO**, Web Developer - 04/2010 – 10/2010
+
+*Development of a Management System of Advertising Campaigns.*
+**Technologies:** ASP.Net (C# 2.0), SQL Server 2005.
+
+---
+**PANAMERICANO ADM. DE CARTÕES DE CRÉDITO**, Web Developer / Team Leader - 03/2006 – 03/2010
+
+*Responsible for compiling, managing, linking, troubleshooting and debugging the web and intranet sites; Responsable for supervising technical staff.*
+**Technologies:** ASP.Net (C#), Asp (VBScript), SQL Server 2005 and Oracle 8.
 
 ---
 
