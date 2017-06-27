@@ -1,11 +1,10 @@
 
 # Danilo Batista da Silva
 >Full Stack Developer, São Paulo, Brazil
-
-###### danilobsi@yahoo.com.br
-###### +55 11 97307-8254  
-[linkedin.com/in/danilobsi](https://www.linkedin.com/in/danilobsi)
-[github.com/danilobsi](https://github.com/danilobsi)
+>danilobsi@yahoo.com.br
+>+55 11 97307-8254  
+>[linkedin.com/in/danilobsi](https://www.linkedin.com/in/danilobsi)
+>[github.com/danilobsi](https://github.com/danilobsi)
 
 
 ### QUALIFICATIONS
